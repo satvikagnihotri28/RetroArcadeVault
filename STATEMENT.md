@@ -1,4 +1,4 @@
-# Project Statement: Retro Arcade High Score and Player Vault
+# Project Statement: Retro Arcade Vault
 
 ## 1. Problem Statement
 If you look at retro gaming culture today, setting up a quick local tournament or arcade night always hits the same annoying roadblock: keeping track of scores. Most solutions are either bloated web apps that require a ton of server setup, or messy paper logs that get lost or ruined. There really wasn't a clean, lightweight way to keep a permanent hall of fame and manage player profiles right from your terminal without needing a heavy database. I wanted to solve that by building a fast, straightforward command-line tool that handles player sign-ups and high scores using local text files.
