@@ -18,7 +18,14 @@ The Retro Arcade High Score and Player Vault is a command-line application devel
 1. **Clone the Repository:**
    Open your terminal and clone the repository using the public URL:
    ```bash
-   git clone [https://github.com/](https://github.com/){github-username}/RetroArcadeVault
+   git clone https://github.com/satvikagnihotri28/RetroArcadeVault.git
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd RetroArcadeVault
+3. **Run the Application:**
+   ```bash
+   python3 main.py
+   
 
 ## Instructions for Testing
 
@@ -49,13 +56,13 @@ python main.py
 ## Screenshots 
 
 ### 1. Main Menu & Application Launch
-![Main Menu](https://github.com/satyy09/hehe/blob/main/assets/image1.png)
+![Main Menu](https://github.com/satvikagnihotri28/RetroArcadeVault/raw/main/assets/image1.png)
 
 ### 2. Registering a New Player
-![Register Player](https://github.com/satyy09/hehe/blob/main/assets/image3.png)
+![Register Player](https://github.com/satvikagnihotri28/RetroArcadeVault/raw/main/assets/image2.png)
 
 ### 3. Submitting a High Score
-![Submit Score](https://github.com/satyy09/hehe/blob/main/assets/imager.png)
+![Submit Score](https://github.com/satvikagnihotri28/RetroArcadeVault/raw/main/assets/imager.png)
 
 ### 4. Viewing the Player Vault & Leaderboards
-![View Vault](https://github.com/satyy09/hehe/blob/main/assets/image4.png)
+![View Vault](https://github.com/satvikagnihotri28/RetroArcadeVault/raw/main/assets/Image5.png)
