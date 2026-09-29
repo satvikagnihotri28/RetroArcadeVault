@@ -40,7 +40,6 @@ The project includes a test file named `test.py` for checking the file-loading f
    - `players.py`
    - `scores.py`
    - `storage.py`
-   - `helpers.py`
    - `test.py`
 
 3. Run the main program using:
