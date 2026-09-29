@@ -46,7 +46,7 @@ The project includes a test file named `test.py` for checking the file-loading f
 3. Run the main program using:
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 4.The program will display the main menu.
