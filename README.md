@@ -5,14 +5,14 @@ The Retro Arcade High Score and Player Vault is a command-line application devel
 
 ## Features
 * **Player Management:** Register new gamers and view active vault directories securely.
-* **Game Cataloging:** Add classic retro arcade game titles and view the existing game inventory[cite: 1].
-* **High Score Tracking:** Submit and record high scores associated with registered players and game titles[cite: 1].
-* **Dynamic Leaderboard:** Generate and view sorted rankings for specific retro games[cite: 1].
+* **Game Cataloging:** Add classic retro arcade game titles and view the existing game inventory.
+* **High Score Tracking:** Submit and record high scores associated with registered players and game titles.
+* **Dynamic Leaderboard:** Generate and view sorted rankings for specific retro games.
 
 ## Technologies/Tools Used
-* **Python 3:** Core programming language utilized for object logic and file operations[cite: 2].
+* **Python 3:** Core programming language utilized for object logic and file operations.
 * **Standard Built-in Libraries:** File handling and validation utilities.
-* **Git & GitHub:** Version control for repository management and public submission[cite: 1].
+* **Git & GitHub:** Version control for repository management and public submission.
 
 ## Steps to Install & Run the Project
 1. **Clone the Repository:**
@@ -49,9 +49,9 @@ The project includes a test file named `test.py` for checking the file-loading f
 python3 main.py
 ```
 
-4.The program will display the main menu.
+4. The program will display the main menu.
 
-5.Select option 5 - Run Unit Tests.
+5. Select option 5 - Run Unit Tests.
 
 ## Screenshots 
 
