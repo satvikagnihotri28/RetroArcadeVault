@@ -62,7 +62,7 @@ python3 main.py
 ![Register Player](https://github.com/satvikagnihotri28/RetroArcadeVault/raw/main/assets/image2.png)
 
 ### 3. Submitting a High Score
-![Submit Score](https://github.com/satvikagnihotri28/RetroArcadeVault/raw/main/assets/imager.png)
+![Submit Score](https://github.com/satvikagnihotri28/RetroArcadeVault/raw/main/assets/image3.png)
 
 ### 4. Viewing the Player Vault & Leaderboards
-![View Vault](https://github.com/satvikagnihotri28/RetroArcadeVault/raw/main/assets/Image5.png)
+![View Vault](https://github.com/satvikagnihotri28/RetroArcadeVault/raw/main/assets/Image4.png)
